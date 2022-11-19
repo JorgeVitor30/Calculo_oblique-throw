@@ -23,5 +23,5 @@ POO Python
  <br>
    
 <h3>Colaboradores</h3>
-<p> -> <a href= https://github.com/JorgeVitor30> Jorge </a></p>
+<p> -> <a href= https://github.com/JorgeVitor30> Jorge Vitor</a></p>
 <p> -> <a href= https://github.com/pedrocoutinh0> Pedro Coutinho </a></p>
